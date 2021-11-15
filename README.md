@@ -8,7 +8,6 @@ I love creating video games and software! 👨‍💻
 - 🎮 [Sheep Studios](https://sheepstudios.net/): Awesome Web and Mobile games for everyone
 - 🖌️ [Creator Assets](https://github.com/hrichhart/creator-assets-website): Creating Copyright-Free assets for all creators
 
-
 ### ⚙️ All Projects ⚙️
 #### (Newest to oldest; italicized items are made for gamejams.)
 - 🎮 **[Color Cross 2](https://sheepstudios.net/color-cross-2): A puzzle-arcade game with constantly changing platforms! With every hop, the environment swaps**
