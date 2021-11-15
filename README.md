@@ -12,6 +12,7 @@ I love creating video games and software! 👨‍💻
 #### (Newest to oldest; italicized items are made for gamejams.)
 - 🎮 **[Color Cross 2](https://sheepstudios.net/color-cross-2): A puzzle-arcade game with constantly changing platforms! With every hop, the environment swaps**
 - 🎮 *[Building Blox](https://hrichhart.itch.io/building-blox): You play as the different elements of a platformer; made in 48 hours for the WOWIE Game Jam*
+- ⚙️ **[bunnibyte.com](https://bunnibyte.com): The official website for BunniByte**
 - 🎮 *[Boop](https://hrichhart.itch.io/boop): Platformer where you drag glitches onto the screen; made in 48 hours for the WOWIE Game Jam*
 - 🎮 **[Color Cross](https://sheepstudios.net/color-cross): Awesome HTML5 Retro Platformer!**
 - ⚙️ **[Creator Assets (Website)](https://creatorassets.com): The official website for the Creator Assets YouTube channel**
