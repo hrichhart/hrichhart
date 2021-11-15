@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Henry. 
 
-I love creating video games and software! 👨‍💻
+I love to create software and video games! 👨‍💻
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=hrichhart&show_icons=true)
 
