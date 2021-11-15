@@ -8,4 +8,4 @@ I love to create software and video games! 👨‍💻
 - 🎮 [Sheep Studios](https://sheepstudios.net/): Awesome Web and Mobile games for everyone
 - 🖌️ [Creator Assets](https://github.com/hrichhart/creator-assets-website): Creating Copyright-Free assets for all creators
 
-(You can check out my full list of projects [here](https://github.com/hrichhart/hrichhart/blob/main/all-projects.md).)
+👉 You can check out my full list of projects [here](https://github.com/hrichhart/hrichhart/blob/main/all-projects.md).
